@@ -1,3 +1,7 @@
+ccccccccccc
+bbbbbbbbbbb
+aaaaaaaaaaa
+
 Ders 7: 
 =======
 git checkout (log commit hashcode'u) --> deteached Head
