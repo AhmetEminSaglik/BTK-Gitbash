@@ -1,9 +1,19 @@
-ccccccccccc
-bbbbbbbbbbb
-aaaaaaaaaaa
+Ders 8 :
+--------
+5. commit
+4. commit
+3. commit
 
+git reset commit_Numarasini yazinca bu comitten sonraki comitleri siler, ancak yapilan degisiklikler kalir. 
+Yukaridaki commitler gibi.
+
+
+git reset --hard ise, commit numarasinda yapilan degisikleri yukler, ancak sonraki degisiklikler sonsuza kadar gider.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
 Ders 7: 
-=======
+--------
 git checkout (log commit hashcode'u) --> deteached Head
 
 -----------------------------------------------------------------------------------------------------------------------------------
