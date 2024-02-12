@@ -1,0 +1,18 @@
+Ders 2 : 
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ders 1 : 
+Git : Version kontrol sistemi
+Checkpoint, savepoint : Version kontrol sistemi
+
+Sistem gelistirirken savepointler kullanilir. Yeni ozellikler test edelim olmazsa geri doneriz mantigiyla kullanilir.
+
+Git alternatifleri vardir.
+
+
+
