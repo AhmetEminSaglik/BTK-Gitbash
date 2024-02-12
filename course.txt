@@ -1,3 +1,5 @@
+silinecke satir 1
+
 Ders 8 :
 --------
 5. commit
