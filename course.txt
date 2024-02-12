@@ -1,6 +1,5 @@
-silinecek satir 3
-silinecek satir 2
-silinecek satir 1
+silinecke satir 2
+silinecke satir 1
 
 Ders 8 :
 --------
