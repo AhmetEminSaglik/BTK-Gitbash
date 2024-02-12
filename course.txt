@@ -1,3 +1,14 @@
+Ders 4 : 
+--------
+
+git branch feature --> feature adinda bir branch acar ama oraya gecmez
+git switch feature --> feature'e gecis yapar
+
+
+git switch feature yapinca : (HEAD -> feature, master) seklinde gorunuyor.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Ders 3 : 
 --------
 
