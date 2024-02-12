@@ -1,5 +1,6 @@
-silinecke satir 2
-silinecke satir 1
+REVERT kismi tekrar calisilacak
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Ders 8 :
 --------
@@ -12,7 +13,6 @@ Yukaridaki commitler gibi.
 
 
 git reset --hard ise, commit numarasinda yapilan degisikleri yukler, ancak sonraki degisiklikler sonsuza kadar gider.
-
 
 -----------------------------------------------------------------------------------------------------------------------------------
 Ders 7: 
