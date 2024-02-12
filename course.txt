@@ -1,5 +1,8 @@
-
 Ders 3 : 
+--------
+
+gitignore template diye aratinca dillere gitignore dosya ornekleri bulunabilir.
+
 
 .gitignore  dizininde  gizli.txt dosyasi olsa
 
@@ -17,12 +20,15 @@ eklenirse gizli.txt dosyasi git dosyasina eklenmez.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ders 2 : 
+--------
 
 `` git add .``  yerine `` git commit -m -a "" ``   yazilabilir
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ders 1 : 
+--------
+
 Git : Version kontrol sistemi
 Checkpoint, savepoint : Version kontrol sistemi
 
