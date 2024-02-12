@@ -1,3 +1,4 @@
+git checkout (log commit hashcode'u) --> deteached Head
 Ders 5.2 : 
 --------
 
