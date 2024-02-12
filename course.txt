@@ -3,6 +3,8 @@ Ders 6:
 git restore item.txt --> item.txt dosyasini son committeki haline dondurur. (git add . yapip, branch degistirip yapinca, asil eklendigi branchte de siliniyor)
 git stash  --> bir ID verir ve yapilan degisikligi o ID'ye saklar
 git stash pop --> deyince degisikligi alip uyguluyor.
+git stash apply stash@{0} --> stash listesinde kaliyor ve baska branch'de de bu stash@{0}'i kullanabiliyoruz.
+Genelde git stash ve git stash pop kullanilir.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Ders 5.3 : 
