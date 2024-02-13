@@ -2,6 +2,7 @@ Ders 9 :
 git diff : stage'e alinmayan degisiklikler ile stage icindeki degisikliklerin farkini verir
 git diff HEAD : anlik durumun son comitteki farkini verir.
 
+git diff ilkCommitKodu - IkinciCommitKodu --> bunu calistiramadim.
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Ders 8 :
