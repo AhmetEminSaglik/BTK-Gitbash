@@ -1,8 +1,23 @@
+Ders 10 :
+
+git rebase :  master'i baska bir branche ekleyip bir kac kez merge yapildiktan sonra master'in devamina eklemek icin kullanilir.
+git gecmisi degistirildigi icin sorunlara sebeb olabilir.
+
+git switch feat
+git rebase master
+
+Asla kullanilmamasi gereken yer : Projede baska insanlarda mergeledigim branchde calismaya 
+baslarsa sonra rebase edilip tekrar paylasilirsa,herkesin projesi darma dagin olur.
+Onemli olan baska insanlarinda branch'ten calismiyor olmasi. Tek kisi calisiyorsa ve baskasida o branch'ten proje acmamissa
+sorun olmaz.
+
+-----------------------------------------------------------------------------------------------------------------------------------
 Ders 9 :
 git diff : stage'e alinmayan degisiklikler ile stage icindeki degisikliklerin farkini verir
 git diff HEAD : anlik durumun son comitteki farkini verir.
 
 git diff ilkCommitKodu - IkinciCommitKodu --> bunu calistiramadim.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Ders 8 :
