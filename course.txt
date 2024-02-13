@@ -1,4 +1,6 @@
-REVERT kismi tekrar calisilacak
+Ders 9 :
+git diff : stage'e alinmayan degisiklikler ile stage icindeki degisikliklerin farkini verir
+git diff HEAD : anlik durumun son comitteki farkini verir.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
