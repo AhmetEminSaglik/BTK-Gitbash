@@ -11,6 +11,12 @@ baslarsa sonra rebase edilip tekrar paylasilirsa,herkesin projesi darma dagin ol
 Onemli olan baska insanlarinda branch'ten calismiyor olmasi. Tek kisi calisiyorsa ve baskasida o branch'ten proje acmamissa
 sorun olmaz.
 
+
+
+feat branchin icinde : git rebase master 
+yazinca sira sira farkli branchlerle commit yapilan gecmisi, once master'da sonra ek branch'e gore siraliyor. 
+ek branch en son commit yapilmis gibi en ustte duruyor.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Ders 9 :
 git diff : stage'e alinmayan degisiklikler ile stage icindeki degisikliklerin farkini verir
