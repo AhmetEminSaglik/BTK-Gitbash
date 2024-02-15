@@ -1,3 +1,13 @@
+Ders 11 : Clone - Fork
+Clone : projeyi dogrudan bilgisayara indirirken fork islemi projeyi artik ayri bir repository olarak bireysel github hesabina ekler.
+
+clone + push --> hata verir. clone'lanan adrese guncellemeleri gondermez.
+
+fork + push --> Kendi hesabina aktarilan repository'e ekleme yapar. 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
 Ders 10 :
 
 git rebase :  master'i baska bir branche ekleyip bir kac kez merge yapildiktan sonra master'in devamina eklemek icin kullanilir.
